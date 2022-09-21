@@ -1,0 +1,6 @@
+.imagenfondo {
+    background-image: url(imagenes/hoja\ A4\ sebas\ blanco.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
